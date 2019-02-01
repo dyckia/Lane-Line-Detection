@@ -4,6 +4,6 @@ An implementation of lane line detection in **Python** by applying Computer Visi
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-[Demo](https://github.com/dyckia/Lane-Line-Detection/blob/master/Demo.ipynb)
+[Demo Notebook](https://github.com/dyckia/Lane-Line-Detection/blob/master/Demo.ipynb)
 
 Credit: [Udacity](https://github.com/udacity/CarND-LaneLines-P1)
